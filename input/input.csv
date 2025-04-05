@@ -1,0 +1,103 @@
+Subcategory,Subcategory 2,Supplier
+Packaging,Printed Packaging,Hung Tung
+Resin,PP (Polypropylene),LyondellBasell
+Packaging,Master Carton,Grand Yick
+Packaging,Flexible Packaging,Kai Cheng
+Packaging,Blister Pack,Hang Sang Chong
+Resin,PVC (Polyvinyl Chloride),Shin-Etsu Chemical
+Resin,PE (Polyethylene),Dow Chemical
+Resin,PET (Polyethylene Terephthalate),Indorama Ventures
+Electronics,Circuit Boards,Samsung Electronics
+Electronics,Batteries,LithiumWerks
+Textiles,Cotton Fabric,Kai Hing Textile
+Textiles,Wool Fabric,Woolmark Company
+Textiles,Synthetic Fabric,Toray Industries
+Furniture,Wooden Chairs,IKEA
+Furniture,Upholstered Sofas,Ashley Furniture Industries
+Furniture,Metal Tables,Herman Miller
+Automotive,Tires,Michelin
+Automotive,Batteries,Exide Technologies
+Automotive,Engine Parts,Bosch Automotive Solutions
+Automotive,Glass Components,Saint-Gobain Sekurit
+Food Products,Dairy Products,Fonterra Co-operative Group
+Food Products,Beverages,Coca-Cola Company
+Food Products,Frozen Foods,Nestlé S.A.
+Food Products,Bakery Items,Kraft Heinz Company
+Pharmaceuticals,Vaccines,Pfizer Inc.
+Pharmaceuticals,Medical Devices,Medtronic PLC
+Pharmaceuticals,Pain Relievers,GSK (GlaxoSmithKline)
+Pharmaceuticals,Vitamins,Bayer AG
+Construction Materials,Cement,LafargeHolcim Ltd.
+Construction Materials,Steel Sheets,Tata Steel Limited
+Construction Materials,Plywood,Kronospan Worldwide
+Construction Materials,Bricks,Wienerberger AG
+Technology,Laptops,Dell Technologies Inc.
+Technology,Smartphones,Xiaomi Corporation
+Technology,Software Solutions,SAP SE
+Technology,Cloud Services,AWS (Amazon Web Services)
+Energy,Solar Panels,Jinko Solar Holding Co. Ltd.
+Energy,Batteries for Storage,Tesla Energy Solutions
+Energy,Fuel Cells,Ballard Power Systems Inc.
+Energy,Lubricants,Shell Global Solutions International BV
+Clothing,Sportswear,Nike Inc.
+Clothing,Casual Wear,H&M Group
+Clothing,Luxury Apparel,LVMH Moët Hennessy Louis Vuitton SE
+Clothing,Fashion Accessories,Zara SA (Inditex)
+Beauty Products,Cosmetics,L'Oréal Group
+Beauty Products,Hygiene Products,P&G (Procter & Gamble)
+Beauty Products,Skin Care,Nivea (Beiersdorf AG)
+Beauty Products,Hair Care,TRESemmé (Unilever)
+Agriculture,Fertilizers,Yara International ASA
+Agriculture,Pesticides,BASF SE Agriculture Solutions Division
+Agriculture,Irrigation Equipment,Jain Irrigation Systems Ltd.
+Agriculture,Farm Machinery,John Deere Co.
+Aerospace,Aviation Components,Boeing Company
+Aerospace,Aerospace Materials,Rolls-Royce Holdings PLC
+Aerospace,Navigational Systems,Honeywell Aerospace Inc.
+Aerospace,Turbine Engines,GE Aviation Systems LLC
+Healthcare Services,Hospitals,Mayo Clinic Health System
+Healthcare Services,Laboratories,LabCorp Diagnostics Inc.
+Healthcare Services,Nursing Homes,Kaiser Permanente Healthcare Group Inc.
+Healthcare Services,Mental Health Services,Cigna Corporation Behavioral Health Division 
+Mining & Metals,Iron Ore,Rio Tinto Group Mining Division 
+Mining & Metals,Copper Ore,BHP Group Limited Copper Operations 
+Mining & Metals,Zinc Ore,Hindustan Zinc Limited 
+Mining & Metals,Gemstones,Gemfields PLC 
+Transportation,Railway Equipment,Siemens Mobility GmbH 
+Transportation,Aviation Equipment,Bombardier Aerospace 
+Transportation,Cargo Containers,MOL Logistics Co. Ltd. 
+Transportation,Fleet Management Software,Zebra Technologies Corporation 
+Education Supplies,Books,Pearson Education Limited 
+Education Supplies,Laboratory Equipment,Fisher Scientific International LLC 
+Education Supplies,Digital Learning Tools,Kahoot! AS 
+Education Supplies,Furniture for Schools,Virco Manufacturing Corporation 
+Entertainment Services,Gaming Consoles,Sony Interactive Entertainment LLC 
+Entertainment Services,Videogames,Nintendo Co. Ltd. 
+Entertainment Services,Movie Production Equipment,Walt Disney Studios Motion Pictures LLC 
+Entertainment Services,Musical Instruments,Yamaha Corporation Music Division 
+Hospitality Services,Luxury Hotels,Ritz-Carlton Hotel Company LLC 
+Hospitality Services,Budget Hotels,OYO Rooms Private Limited 
+Hospitality Services,Catering Equipment,Hobart Food Equipment Group LLC 
+Hospitality Services,Tourism Packages,TUI Group Travel Division 
+Retail,E-commerce Platforms,Amazon.com Inc. Retail Division 
+Retail,Grocery Chains,Walmart Inc. Grocery Operations Unit 
+Retail,Fashion Retailers,Zalando SE Fashion Marketplace Division 
+Retail,Luxury Goods Retailers,Tiffany & Co. Jewelry Operations Unit  
+Telecommunications Network Equipment,Nokia Corporation Telecommunications Division  
+Telecommunications Mobile Phones,Huawei Technologies Co. Ltd.  
+Telecommunications Satellite Communication Systems,Viasat Inc. Satellite Communications Unit  
+Telecommunications Internet Service Providers,Vodafone Group PLC Internet Operations Unit  
+Sports Equipment Outdoor Gear,Puma SE Sportswear and Equipment Division  
+Sports Equipment Indoor Fitness Equipment,Peloton Interactive Inc. Fitness Division  
+Sports Equipment Adventure Gear,Mammut Sports Group AG Adventure Gear Division  
+Sports Equipment Team Sports Gear,Umbro International Team Sports Division  
+Pharmaceuticals,Antibiotics,Merck & Co.
+Pharmaceuticals,Antivirals,Gilead Sciences
+Pharmaceuticals,Antifungals,Pfizer Inc.
+Pharmaceuticals,Antiparasitics,Sanofi
+Pharmaceuticals,Antineoplastics,Roche
+Pharmaceuticals,Anticoagulants,Bristol-Myers Squibb
+Pharmaceuticals,Antidepressants,Eli Lilly and Company
+Pharmaceuticals,Antipsychotics,AstraZeneca
+Pharmaceuticals,Antidiabetics,Novo Nordisk
+Pharmaceuticals,Antihypertensives,Novartis

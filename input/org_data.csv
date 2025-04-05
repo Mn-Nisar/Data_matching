@@ -1,0 +1,99 @@
+Organization,Country/Area,Activities,Sectors,Industries,Primary activity
+Indorama Ventures Public Company Limited,Thailand,PET Resin Manufacturing,Chemicals & Plastics,Plastics Production,PET Resin Production
+LyondellBasell,Netherlands,Polymer Resin Production,Chemicals & Plastics,Plastics Production,Resin Manufacturing
+Grand Yick,Hong Kong,Master Carton Production,Packaging Solutions,Shipping & Logistics,Carton Manufacturing
+Shin-Etsu Chemical,Japan,PVC Resin Manufacturing,Chemicals & Plastics,Plastics Production,Resin Manufacturing
+Dow Chemical,United States,Polyethylene Production,Chemicals & Plastics,Plastics Production,Resin Manufacturing
+Samsung Electronics,South Korea,Circuit Board Manufacturing,Electronics,Consumer Electronics,Electronics Manufacturing
+LithiumWerks,Netherlands,Battery Production,Energy Storage,Electronics,Battery Manufacturing
+Kai Hing Textile,China,Cotton Fabric Production,Textiles,Apparel,Textile Manufacturing
+Woolmark Company,Australia,Wool Fabric Production,Textiles,Apparel,Textile Manufacturing
+Toray Industries,Japan,Synthetic Fabric Production,Textiles,Apparel,Textile Manufacturing
+IKEA,Sweden,Furniture Manufacturing,Furniture,Retail,Furniture Production
+Ashley Furniture Industries,United States,Upholstered Furniture Manufacturing,Furniture,Retail,Furniture Production
+Herman Miller,United States,Metal Furniture Manufacturing,Furniture,Retail,Furniture Production
+Michelin,France,Tire Manufacturing,Automotive,Transportation,Tire Production
+Exide Technologies,United States,Automotive Battery Production,Automotive,Transportation,Battery Manufacturing
+Bosch Automotive Solutions,Germany,Engine Parts Manufacturing,Automotive,Transportation,Automotive Components
+Saint-Gobain Sekurit,France,Automotive Glass Manufacturing,Automotive,Transportation,Glass Production
+Fonterra Co-operative Group,New Zealand,Dairy Product Manufacturing,Food & Beverage,Agriculture,Dairy Production
+Coca-Cola Company,United States,Beverage Production,Food & Beverage,Retail,Beverage Manufacturing
+Nestlé S.A.,Switzerland,Frozen Food Production,Food & Beverage,Retail,Food Manufacturing
+Kraft Heinz Company,United States,Bakery Product Manufacturing,Food & Beverage,Retail,Food Manufacturing
+Pfizer Inc.,United States,Vaccine Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
+Medtronic PLC,Ireland,Medical Device Manufacturing,Pharmaceuticals,Healthcare,Medical Devices
+GSK (GlaxoSmithKline),United Kingdom,Pharmaceutical Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
+Bayer AG,Germany,Vitamin Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
+LafargeHolcim Ltd.,Switzerland,Cement Production,Construction Materials,Construction,Cement Manufacturing
+Tata Steel Limited,India,Steel Sheet Production,Construction Materials,Construction,Steel Manufacturing
+Kronospan Worldwide,Austria,Plywood Production,Construction Materials,Construction,Wood Product Manufacturing
+Wienerberger AG,Austria,Brick Manufacturing,Construction Materials,Construction,Brick Production
+Dell Technologies Inc.,United States,Laptop Manufacturing,Technology,Electronics,Electronics Production
+Xiaomi Corporation,China,Smartphone Manufacturing,Technology,Electronics,Electronics Production
+SAP SE,Germany,Software Solutions,Technology,Software,Software Development
+AWS (Amazon Web Services),United States,Cloud Services,Technology,Software,Cloud Computing
+Jinko Solar Holding Co. Ltd.,China,Solar Panel Production,Energy,Renewables,Solar Energy
+Tesla Energy Solutions,United States,Battery Storage Systems,Energy,Renewables,Energy Storage
+Ballard Power Systems Inc.,Canada,Fuel Cell Production,Energy,Renewables,Fuel Cells
+Shell Global Solutions International BV,Netherlands,Lubricant Production,Energy,Fossil Fuels,Lubricant Manufacturing
+Nike Inc.,United States,Sportswear Manufacturing,Apparel,Retail,Clothing Production
+H&M Group,Sweden,Casual Wear Production,Apparel,Retail,Clothing Production
+LVMH Moët Hennessy Louis Vuitton SE,France,Luxury Apparel Manufacturing,Apparel,Retail,Clothing Production
+Zara SA (Inditex),Spain,Fashion Accessories Production,Apparel,Retail,Clothing Production
+L'Oréal Group,France,Cosmetics Manufacturing,Beauty Products,Retail,Cosmetics Production
+P&G (Procter & Gamble),United States,Hygiene Product Manufacturing,Beauty Products,Retail,Personal Care
+Nivea (Beiersdorf AG),Germany,Skin Care Product Manufacturing,Beauty Products,Retail,Personal Care
+TRESemmé (Unilever),United Kingdom,Hair Care Product Manufacturing,Beauty Products,Retail,Personal Care
+Yara International ASA,Norway,Fertilizer Production,Agriculture,Agriculture,Fertilizer Manufacturing
+BASF SE Agriculture Solutions Division,Germany,Pesticide Production,Agriculture,Agriculture,Agrochemicals
+Jain Irrigation Systems Ltd.,India,Irrigation Equipment Manufacturing,Agriculture,Agriculture,Farm Equipment
+John Deere Co.,United States,Farm Machinery Production,Agriculture,Agriculture,Farm Equipment
+Boeing Company,United States,Aviation Component Manufacturing,Aerospace,Aviation,Aerospace Engineering
+Rolls-Royce Holdings PLC,United Kingdom,Aerospace Material Production,Aerospace,Aviation,Aerospace Manufacturing
+Honeywell Aerospace Inc.,United States,Navigational Systems Manufacturing,Aerospace,Aviation,Aerospace Electronics
+GE Aviation Systems LLC,United States,Turbine Engine Production,Aerospace,Aviation,Aerospace Engineering
+Mayo Clinic Health System,United States,Hospital Services,Healthcare Services,Healthcare,Medical Care
+LabCorp Diagnostics Inc.,United States,Laboratory Services,Healthcare Services,Healthcare,Diagnostics
+Kaiser Permanente Healthcare Group Inc.,United States,Nursing Home Services,Healthcare Services,Healthcare,Residential Care
+Cigna Corporation Behavioral Health Division,United States,Mental Health Services,Healthcare Services,Healthcare,Mental Health
+Rio Tinto Group Mining Division,Australia,Iron Ore Mining,Mining & Metals,Mining,Metal Extraction
+BHP Group Limited Copper Operations,Australia,Copper Ore Mining,Mining & Metals,Mining,Metal Extraction
+Hindustan Zinc Limited,India,Zinc Ore Mining,Mining & Metals,Mining,Metal Extraction
+Gemfields PLC,United Kingdom,Gemstone Mining,Mining & Metals,Mining,Gemstone Extraction
+Siemens Mobility GmbH,Germany,Railway Equipment Manufacturing,Transportation,Logistics,Railway Systems
+Bombardier Aerospace,Canada,Aviation Equipment Manufacturing,Transportation,Aviation,Aircraft Production
+MOL Logistics Co. Ltd.,Japan,Cargo Container Manufacturing,Transportation,Logistics,Container Production
+Zebra Technologies Corporation,United States,Fleet Management Software,Transportation,Software,Logistics Software
+Pearson Education Limited,United Kingdom,Book Publishing,Education Supplies,Education,Educational Materials
+Fisher Scientific International LLC,United States,Laboratory Equipment Manufacturing,Education Supplies,Education,Lab Equipment
+Kahoot! AS,Norway,Digital Learning Tools,Education Supplies,Education,EdTech
+Virco Manufacturing Corporation,United States,School Furniture Manufacturing,Education Supplies,Education,Furniture Production
+Sony Interactive Entertainment LLC,Japan,Gaming Console Manufacturing,Entertainment Services,Entertainment,Electronics
+Nintendo Co. Ltd.,Japan,Videogame Production,Entertainment Services,Entertainment,Software Development
+Walt Disney Studios Motion Pictures LLC,United States,Movie Production Equipment,Entertainment Services,Entertainment,Media Production
+Yamaha Corporation Music Division,Japan,Musical Instrument Manufacturing,Entertainment Services,Entertainment,Music Equipment
+Ritz-Carlton Hotel Company LLC,United States,Luxury Hotel Services,Hospitality Services,Hospitality,Lodging
+OYO Rooms Private Limited,India,Budget Hotel Services,Hospitality Services,Hospitality,Lodging
+Hobart Food Equipment Group LLC,United States,Catering Equipment Manufacturing,Hospitality Services,Hospitality,Food Service
+TUI Group Travel Division,Germany,Tourism Package Services,Hospitality Services,Hospitality,Travel Services
+Amazon.com Inc. Retail Division,United States,E-commerce Platform Management,Retail,E-commerce,Online Retail
+Walmart Inc. Grocery Operations Unit,United States,Grocery Retail,Retail,Food & Beverage,Retail Sales
+Zalando SE Fashion Marketplace Division,Germany,Fashion Retail,Retail,Apparel,Online Retail
+Tiffany & Co. Jewelry Operations Unit,United States,Luxury Goods Retail,Retail,Luxury Goods,Jewelry Sales
+Nokia Corporation Telecommunications Division,Finland,Telecom Network Equipment,Telecommunications,Technology,Network Solutions
+Huawei Technologies Co. Ltd.,China,Mobile Phone Manufacturing,Telecommunications,Electronics,Smartphone Production
+Viasat Inc. Satellite Communications Unit,United States,Satellite Communication Systems,Telecommunications,Technology,Satellite Tech
+Vodafone Group PLC Internet Operations Unit,United Kingdom,Internet Service Provision,Telecommunications,Technology,ISP Services
+Puma SE Sportswear and Equipment Division,Germany,Sportswear Manufacturing,Sports Equipment,Apparel,Clothing Production
+Peloton Interactive Inc. Fitness Division,United States,Fitness Equipment Manufacturing,Sports Equipment,Fitness,Exercise Equipment
+Mammut Sports Group AG Adventure Gear Division,Switzerland,Adventure Gear Manufacturing,Sports Equipment,Outdoor Gear,Equipment Production
+Umbro International Team Sports Division,United Kingdom,Team Sports Gear Manufacturing,Sports Equipment,Sports,Apparel Production
+Merck & Co.,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antibiotics Production
+Gilead Sciences,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antivirals Production
+Sanofi,France,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antiparasitics Production
+Roche,Switzerland,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antineoplastics Production
+Bristol-Myers Squibb,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Anticoagulants Production
+Eli Lilly and Company,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antidepressants Production
+AstraZeneca,United Kingdom,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antipsychotics Production
+Novo Nordisk,Denmark,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antidiabetics Production
+Novartis,Switzerland,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antihypertensives Production

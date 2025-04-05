@@ -1,0 +1,5 @@
+pandas==2.2.3
+numpy==2.2.4
+boto3==1.37.27
+scipy==1.15.2
+python-dotenv==1.1.0
