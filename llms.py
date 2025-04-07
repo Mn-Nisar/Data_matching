@@ -39,7 +39,9 @@ def get_orgs_using_llm(unmatched_sup, unmatched_orgs, confidence=0.8):
     org_emb = dict()
     matched_orgs = dict()
 
+
     for sup in unmatched_sup:
+        print(f"Getting embedding for supplier: {sup}")
         supp_emb[sup] = get_embedding(sup) 
 
     for org in unmatched_orgs:

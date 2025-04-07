@@ -1,103 +1,103 @@
-,Subcategory,Subcategory 2,Supplier,Organization,Country/Area,Activities,Sectors,Industries,Primary activity
-0,Packaging,Printed Packaging,Hung Tung,,,,,,
-1,Resin,PP (Polypropylene),LyondellBasell,LyondellBasell,Netherlands,Polymer Resin Production,Chemicals & Plastics,Plastics Production,Resin Manufacturing
-2,Packaging,Master Carton,Grand Yick,Grand Yick,Hong Kong,Master Carton Production,Packaging Solutions,Shipping & Logistics,Carton Manufacturing
-3,Packaging,Flexible Packaging,Kai Cheng,,,,,,
-4,Packaging,Blister Pack,Hang Sang Chong,,,,,,
-5,Resin,PVC (Polyvinyl Chloride),Shin-Etsu Chemical,Shin-Etsu Chemical,Japan,PVC Resin Manufacturing,Chemicals & Plastics,Plastics Production,Resin Manufacturing
-6,Resin,PE (Polyethylene),Dow Chemical,Dow Chemical,United States,Polyethylene Production,Chemicals & Plastics,Plastics Production,Resin Manufacturing
-7,Resin,PET (Polyethylene Terephthalate),Indorama Ventures,Indorama Ventures Public Company Limited,,,Chemicals & Plastics,,
-8,Electronics,Circuit Boards,Samsung Electronics,Samsung Electronics,South Korea,Circuit Board Manufacturing,Electronics,Consumer Electronics,Electronics Manufacturing
-9,Electronics,Batteries,LithiumWerks,LithiumWerks,Netherlands,Battery Production,Energy Storage,Electronics,Battery Manufacturing
-10,Textiles,Cotton Fabric,Kai Hing Textile,Kai Hing Textile,China,Cotton Fabric Production,Textiles,Apparel,Textile Manufacturing
-11,Textiles,Wool Fabric,Woolmark Company,Woolmark Company,Australia,Wool Fabric Production,Textiles,Apparel,Textile Manufacturing
-12,Textiles,Synthetic Fabric,Toray Industries,Toray Industries,Japan,Synthetic Fabric Production,Textiles,Apparel,Textile Manufacturing
-13,Furniture,Wooden Chairs,IKEA,IKEA,Sweden,Furniture Manufacturing,Furniture,Retail,Furniture Production
-14,Furniture,Upholstered Sofas,Ashley Furniture Industries,Ashley Furniture Industries,United States,Upholstered Furniture Manufacturing,Furniture,Retail,Furniture Production
-15,Furniture,Metal Tables,Herman Miller,Herman Miller,United States,Metal Furniture Manufacturing,Furniture,Retail,Furniture Production
-16,Automotive,Tires,Michelin,Michelin,France,Tire Manufacturing,Automotive,Transportation,Tire Production
-17,Automotive,Batteries,Exide Technologies,Exide Technologies,United States,Automotive Battery Production,Automotive,Transportation,Battery Manufacturing
-18,Automotive,Engine Parts,Bosch Automotive Solutions,Bosch Automotive Solutions,Germany,Engine Parts Manufacturing,Automotive,Transportation,Automotive Components
-19,Automotive,Glass Components,Saint-Gobain Sekurit,Saint-Gobain Sekurit,France,Automotive Glass Manufacturing,Automotive,Transportation,Glass Production
-20,Food Products,Dairy Products,Fonterra Co-operative Group,Fonterra Co-operative Group,New Zealand,Dairy Product Manufacturing,Food & Beverage,Agriculture,Dairy Production
-21,Food Products,Beverages,Coca-Cola Company,Coca-Cola Company,United States,Beverage Production,Food & Beverage,Retail,Beverage Manufacturing
-22,Food Products,Frozen Foods,Nestlé S.A.,Nestlé S.A.,Switzerland,Frozen Food Production,Food & Beverage,Retail,Food Manufacturing
-23,Food Products,Bakery Items,Kraft Heinz Company,Kraft Heinz Company,United States,Bakery Product Manufacturing,Food & Beverage,Retail,Food Manufacturing
-24,Pharmaceuticals,Vaccines,Pfizer Inc.,Pfizer Inc.,United States,Vaccine Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
-25,Pharmaceuticals,Medical Devices,Medtronic PLC,Medtronic PLC,Ireland,Medical Device Manufacturing,Pharmaceuticals,Healthcare,Medical Devices
-26,Pharmaceuticals,Pain Relievers,GSK (GlaxoSmithKline),GSK (GlaxoSmithKline),United Kingdom,Pharmaceutical Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
-27,Pharmaceuticals,Vitamins,Bayer AG,Bayer AG,Germany,Vitamin Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
-28,Construction Materials,Cement,LafargeHolcim Ltd.,LafargeHolcim Ltd.,Switzerland,Cement Production,Construction Materials,Construction,Cement Manufacturing
-29,Construction Materials,Steel Sheets,Tata Steel Limited,Tata Steel Limited,India,Steel Sheet Production,Construction Materials,Construction,Steel Manufacturing
-30,Construction Materials,Plywood,Kronospan Worldwide,Kronospan Worldwide,Austria,Plywood Production,Construction Materials,Construction,Wood Product Manufacturing
-31,Construction Materials,Bricks,Wienerberger AG,Wienerberger AG,Austria,Brick Manufacturing,Construction Materials,Construction,Brick Production
-32,Technology,Laptops,Dell Technologies Inc.,Dell Technologies Inc.,United States,Laptop Manufacturing,Technology,Electronics,Electronics Production
-33,Technology,Smartphones,Xiaomi Corporation,Xiaomi Corporation,China,Smartphone Manufacturing,Technology,Electronics,Electronics Production
-34,Technology,Software Solutions,SAP SE,SAP SE,Germany,Software Solutions,Technology,Software,Software Development
-35,Technology,Cloud Services,AWS (Amazon Web Services),AWS (Amazon Web Services),United States,Cloud Services,Technology,Software,Cloud Computing
-36,Energy,Solar Panels,Jinko Solar Holding Co. Ltd.,Jinko Solar Holding Co. Ltd.,China,Solar Panel Production,Energy,Renewables,Solar Energy
-37,Energy,Batteries for Storage,Tesla Energy Solutions,Tesla Energy Solutions,United States,Battery Storage Systems,Energy,Renewables,Energy Storage
-38,Energy,Fuel Cells,Ballard Power Systems Inc.,Ballard Power Systems Inc.,Canada,Fuel Cell Production,Energy,Renewables,Fuel Cells
-39,Energy,Lubricants,Shell Global Solutions International BV,Shell Global Solutions International BV,Netherlands,Lubricant Production,Energy,Fossil Fuels,Lubricant Manufacturing
-40,Clothing,Sportswear,Nike Inc.,Nike Inc.,United States,Sportswear Manufacturing,Apparel,Retail,Clothing Production
-41,Clothing,Casual Wear,H&M Group,H&M Group,Sweden,Casual Wear Production,Apparel,Retail,Clothing Production
-42,Clothing,Luxury Apparel,LVMH Moët Hennessy Louis Vuitton SE,LVMH Moët Hennessy Louis Vuitton SE,France,Luxury Apparel Manufacturing,Apparel,Retail,Clothing Production
-43,Clothing,Fashion Accessories,Zara SA (Inditex),Zara SA (Inditex),Spain,Fashion Accessories Production,Apparel,Retail,Clothing Production
-44,Beauty Products,Cosmetics,L'Oréal Group,L'Oréal Group,France,Cosmetics Manufacturing,Beauty Products,Retail,Cosmetics Production
-45,Beauty Products,Hygiene Products,P&G (Procter & Gamble),P&G (Procter & Gamble),United States,Hygiene Product Manufacturing,Beauty Products,Retail,Personal Care
-46,Beauty Products,Skin Care,Nivea (Beiersdorf AG),Nivea (Beiersdorf AG),Germany,Skin Care Product Manufacturing,Beauty Products,Retail,Personal Care
-47,Beauty Products,Hair Care,TRESemmé (Unilever),TRESemmé (Unilever),United Kingdom,Hair Care Product Manufacturing,Beauty Products,Retail,Personal Care
-48,Agriculture,Fertilizers,Yara International ASA,Yara International ASA,Norway,Fertilizer Production,Agriculture,Agriculture,Fertilizer Manufacturing
-49,Agriculture,Pesticides,BASF SE Agriculture Solutions Division,BASF SE Agriculture Solutions Division,Germany,Pesticide Production,Agriculture,Agriculture,Agrochemicals
-50,Agriculture,Irrigation Equipment,Jain Irrigation Systems Ltd.,Jain Irrigation Systems Ltd.,India,Irrigation Equipment Manufacturing,Agriculture,Agriculture,Farm Equipment
-51,Agriculture,Farm Machinery,John Deere Co.,John Deere Co.,United States,Farm Machinery Production,Agriculture,Agriculture,Farm Equipment
-52,Aerospace,Aviation Components,Boeing Company,Boeing Company,United States,Aviation Component Manufacturing,Aerospace,Aviation,Aerospace Engineering
-53,Aerospace,Aerospace Materials,Rolls-Royce Holdings PLC,Rolls-Royce Holdings PLC,United Kingdom,Aerospace Material Production,Aerospace,Aviation,Aerospace Manufacturing
-54,Aerospace,Navigational Systems,Honeywell Aerospace Inc.,Honeywell Aerospace Inc.,United States,Navigational Systems Manufacturing,Aerospace,Aviation,Aerospace Electronics
-55,Aerospace,Turbine Engines,GE Aviation Systems LLC,GE Aviation Systems LLC,United States,Turbine Engine Production,Aerospace,Aviation,Aerospace Engineering
-56,Healthcare Services,Hospitals,Mayo Clinic Health System,Mayo Clinic Health System,United States,Hospital Services,Healthcare Services,Healthcare,Medical Care
-57,Healthcare Services,Laboratories,LabCorp Diagnostics Inc.,LabCorp Diagnostics Inc.,United States,Laboratory Services,Healthcare Services,Healthcare,Diagnostics
-58,Healthcare Services,Nursing Homes,Kaiser Permanente Healthcare Group Inc.,Kaiser Permanente Healthcare Group Inc.,United States,Nursing Home Services,Healthcare Services,Healthcare,Residential Care
-59,Healthcare Services,Mental Health Services,Cigna Corporation Behavioral Health Division,Cigna Corporation Behavioral Health Division,United States,Mental Health Services,Healthcare Services,Healthcare,Mental Health
-60,Mining & Metals,Iron Ore,Rio Tinto Group Mining Division,Rio Tinto Group Mining Division,Australia,Iron Ore Mining,Mining & Metals,Mining,Metal Extraction
-61,Mining & Metals,Copper Ore,BHP Group Limited Copper Operations,BHP Group Limited Copper Operations,Australia,Copper Ore Mining,Mining & Metals,Mining,Metal Extraction
-62,Mining & Metals,Zinc Ore,Hindustan Zinc Limited,Hindustan Zinc Limited,India,Zinc Ore Mining,Mining & Metals,Mining,Metal Extraction
-63,Mining & Metals,Gemstones,Gemfields PLC,Gemfields PLC,United Kingdom,Gemstone Mining,Mining & Metals,Mining,Gemstone Extraction
-64,Transportation,Railway Equipment,Siemens Mobility GmbH,Siemens Mobility GmbH,Germany,Railway Equipment Manufacturing,Transportation,Logistics,Railway Systems
-65,Transportation,Aviation Equipment,Bombardier Aerospace,Bombardier Aerospace,Canada,Aviation Equipment Manufacturing,Transportation,Aviation,Aircraft Production
-66,Transportation,Cargo Containers,MOL Logistics Co. Ltd.,MOL Logistics Co. Ltd.,Japan,Cargo Container Manufacturing,Transportation,Logistics,Container Production
-67,Transportation,Fleet Management Software,Zebra Technologies Corporation,Zebra Technologies Corporation,United States,Fleet Management Software,Transportation,Software,Logistics Software
-68,Education Supplies,Books,Pearson Education Limited,Pearson Education Limited,United Kingdom,Book Publishing,Education Supplies,Education,Educational Materials
-69,Education Supplies,Laboratory Equipment,Fisher Scientific International LLC,Fisher Scientific International LLC,United States,Laboratory Equipment Manufacturing,Education Supplies,Education,Lab Equipment
-70,Education Supplies,Digital Learning Tools,Kahoot! AS,Kahoot! AS,Norway,Digital Learning Tools,Education Supplies,Education,EdTech
-71,Education Supplies,Furniture for Schools,Virco Manufacturing Corporation,Virco Manufacturing Corporation,United States,School Furniture Manufacturing,Education Supplies,Education,Furniture Production
-72,Entertainment Services,Gaming Consoles,Sony Interactive Entertainment LLC,Sony Interactive Entertainment LLC,Japan,Gaming Console Manufacturing,Entertainment Services,Entertainment,Electronics
-73,Entertainment Services,Videogames,Nintendo Co. Ltd.,Nintendo Co. Ltd.,Japan,Videogame Production,Entertainment Services,Entertainment,Software Development
-74,Entertainment Services,Movie Production Equipment,Walt Disney Studios Motion Pictures LLC,Walt Disney Studios Motion Pictures LLC,United States,Movie Production Equipment,Entertainment Services,Entertainment,Media Production
-75,Entertainment Services,Musical Instruments,Yamaha Corporation Music Division,Yamaha Corporation Music Division,Japan,Musical Instrument Manufacturing,Entertainment Services,Entertainment,Music Equipment
-76,Hospitality Services,Luxury Hotels,Ritz-Carlton Hotel Company LLC,Ritz-Carlton Hotel Company LLC,United States,Luxury Hotel Services,Hospitality Services,Hospitality,Lodging
-77,Hospitality Services,Budget Hotels,OYO Rooms Private Limited,OYO Rooms Private Limited,India,Budget Hotel Services,Hospitality Services,Hospitality,Lodging
-78,Hospitality Services,Catering Equipment,Hobart Food Equipment Group LLC,Hobart Food Equipment Group LLC,United States,Catering Equipment Manufacturing,Hospitality Services,Hospitality,Food Service
-79,Hospitality Services,Tourism Packages,TUI Group Travel Division,TUI Group Travel Division,Germany,Tourism Package Services,Hospitality Services,Hospitality,Travel Services
-80,Retail,E-commerce Platforms,Amazon.com Inc. Retail Division,Amazon.com Inc. Retail Division,United States,E-commerce Platform Management,Retail,E-commerce,Online Retail
-81,Retail,Grocery Chains,Walmart Inc. Grocery Operations Unit,Walmart Inc. Grocery Operations Unit,United States,Grocery Retail,Retail,Food & Beverage,Retail Sales
-82,Retail,Fashion Retailers,Zalando SE Fashion Marketplace Division,Zalando SE Fashion Marketplace Division,Germany,Fashion Retail,Retail,Apparel,Online Retail
-83,Retail,Luxury Goods Retailers,Tiffany & Co. Jewelry Operations Unit,Tiffany & Co. Jewelry Operations Unit,United States,Luxury Goods Retail,Retail,Luxury Goods,Jewelry Sales
-84,Telecommunications Network Equipment,Nokia Corporation Telecommunications Division,Nokia Corporation Telecommunications Division,Nokia Corporation Telecommunications Division,Finland,Telecom Network Equipment,Telecommunications,Technology,Network Solutions
-85,Telecommunications Mobile Phones,Huawei Technologies Co. Ltd.,Huawei Technologies Co. Ltd.,Huawei Technologies Co. Ltd.,China,Mobile Phone Manufacturing,Telecommunications,Electronics,Smartphone Production
-86,Telecommunications Satellite Communication Systems,Viasat Inc. Satellite Communications Unit,Viasat Inc. Satellite Communications Unit,Viasat Inc. Satellite Communications Unit,United States,Satellite Communication Systems,Telecommunications,Technology,Satellite Tech
-87,Telecommunications Internet Service Providers,Vodafone Group PLC Internet Operations Unit,Vodafone Group PLC Internet Operations Unit,Vodafone Group PLC Internet Operations Unit,United Kingdom,Internet Service Provision,Telecommunications,Technology,ISP Services
-88,Sports Equipment Outdoor Gear,Puma SE Sportswear and Equipment Division,Puma SE Sportswear and Equipment Division,Puma SE Sportswear and Equipment Division,Germany,Sportswear Manufacturing,Sports Equipment,Apparel,Clothing Production
-89,Sports Equipment Indoor Fitness Equipment,Peloton Interactive Inc. Fitness Division,Peloton Interactive Inc. Fitness Division,Peloton Interactive Inc. Fitness Division,United States,Fitness Equipment Manufacturing,Sports Equipment,Fitness,Exercise Equipment
-90,Sports Equipment Adventure Gear,Mammut Sports Group AG Adventure Gear Division,Mammut Sports Group AG Adventure Gear Division,Mammut Sports Group AG Adventure Gear Division,Switzerland,Adventure Gear Manufacturing,Sports Equipment,Outdoor Gear,Equipment Production
-91,Sports Equipment Team Sports Gear,Umbro International Team Sports Division,Umbro International Team Sports Division,Umbro International Team Sports Division,United Kingdom,Team Sports Gear Manufacturing,Sports Equipment,Sports,Apparel Production
-92,Pharmaceuticals,Antibiotics,Merck & Co.,Merck & Co.,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antibiotics Production
-93,Pharmaceuticals,Antivirals,Gilead Sciences,Gilead Sciences,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antivirals Production
-94,Pharmaceuticals,Antifungals,Pfizer Inc.,Pfizer Inc.,United States,Vaccine Production,Pharmaceuticals,Healthcare,Pharmaceutical Manufacturing
-95,Pharmaceuticals,Antiparasitics,Sanofi,Sanofi,France,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antiparasitics Production
-96,Pharmaceuticals,Antineoplastics,Roche,Roche,Switzerland,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antineoplastics Production
-97,Pharmaceuticals,Anticoagulants,Bristol-Myers Squibb,Bristol-Myers Squibb,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Anticoagulants Production
-98,Pharmaceuticals,Antidepressants,Eli Lilly and Company,Eli Lilly and Company,United States,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antidepressants Production
-99,Pharmaceuticals,Antipsychotics,AstraZeneca,AstraZeneca,United Kingdom,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antipsychotics Production
-100,Pharmaceuticals,Antidiabetics,Novo Nordisk,Novo Nordisk,Denmark,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antidiabetics Production
-101,Pharmaceuticals,Antihypertensives,Novartis,Novartis,Switzerland,Pharmaceutical Manufacturing,Pharmaceuticals,Healthcare,Antihypertensives Production
+,Subcategory,Subcategory 2,Supplier,Organization,Sectors,Factor Id,Factor Name
+0,Packaging,Printed Packaging,Hung Tung,,,,
+1,Resin,PP (Polypropylene),LyondellBasell,LyondellBasell,Chemicals & Plastics,,
+2,Packaging,Master Carton,Grand Yick,Grand Yick,Packaging Solutions,,
+3,Packaging,Flexible Packaging,Kai Cheng,,,,
+4,Packaging,Blister Pack,Hang Sang Chong,,,,
+5,Resin,PVC (Polyvinyl Chloride),Shin-Etsu Chemical,Shin-Etsu Chemical,Chemicals & Plastics,,
+6,Resin,PE (Polyethylene),Dow Chemical,Dow Chemical,Chemicals & Plastics,,
+7,Resin,PET (Polyethylene Terephthalate),Indorama Ventures,Indorama Ventures Public Company Limited,Chemicals & Plastics,,
+8,Electronics,Circuit Boards,Samsung Electronics,Samsung Electronics,Electronics,,
+9,Electronics,Batteries,LithiumWerks,LithiumWerks,Energy Storage,,
+10,Textiles,Cotton Fabric,Kai Hing Textile,Kai Hing Textile,Textiles,,
+11,Textiles,Wool Fabric,Woolmark Company,Woolmark Company,Textiles,,
+12,Textiles,Synthetic Fabric,Toray Industries,Toray Industries,Textiles,,
+13,Furniture,Wooden Chairs,IKEA,IKEA,Furniture,,
+14,Furniture,Upholstered Sofas,Ashley Furniture Industries,Ashley Furniture Industries,Furniture,337121.0,Upholstered Household Furniture Manufacturing (Furniture)
+15,Furniture,Metal Tables,Herman Miller,Herman Miller,Furniture,,
+16,Automotive,Tires,Michelin,Michelin,Automotive,,
+17,Automotive,Batteries,Exide Technologies,Exide Technologies,Automotive,,
+18,Automotive,Engine Parts,Bosch Automotive Solutions,Bosch Automotive Solutions,Automotive,,
+19,Automotive,Glass Components,Saint-Gobain Sekurit,Saint-Gobain Sekurit,Automotive,,
+20,Food Products,Dairy Products,Fonterra Co-operative Group,Fonterra Co-operative Group,Food & Beverage,,
+21,Food Products,Beverages,Coca-Cola Company,Coca-Cola Company,Food & Beverage,,
+22,Food Products,Frozen Foods,Nestlé S.A.,Nestlé S.A.,Food & Beverage,311710.0,Frozen Food Manufacturing
+23,Food Products,Bakery Items,Kraft Heinz Company,Kraft Heinz Company,Food & Beverage,311230.0,Bakery Product Manufacturing
+24,Pharmaceuticals,Vaccines,Pfizer Inc.,Pfizer Inc.,Pharmaceuticals,,
+25,Pharmaceuticals,Medical Devices,Medtronic PLC,Medtronic PLC,Pharmaceuticals,,
+26,Pharmaceuticals,Pain Relievers,GSK (GlaxoSmithKline),GSK (GlaxoSmithKline),Pharmaceuticals,,
+27,Pharmaceuticals,Vitamins,Bayer AG,Bayer AG,Pharmaceuticals,,
+28,Construction Materials,Cement,LafargeHolcim Ltd.,LafargeHolcim Ltd.,Construction Materials,327310.0,Cement Manufacturing (Construction Materials)
+29,Construction Materials,Steel Sheets,Tata Steel Limited,Tata Steel Limited,Construction Materials,,
+30,Construction Materials,Plywood,Kronospan Worldwide,Kronospan Worldwide,Construction Materials,,
+31,Construction Materials,Bricks,Wienerberger AG,Wienerberger AG,Construction Materials,,
+32,Technology,Laptops,Dell Technologies Inc.,Dell Technologies Inc.,Technology,,
+33,Technology,Smartphones,Xiaomi Corporation,Xiaomi Corporation,Technology,,
+34,Technology,Software Solutions,SAP SE,SAP SE,Technology,,
+35,Technology,Cloud Services,AWS (Amazon Web Services),AWS (Amazon Web Services),Technology,,
+36,Energy,Solar Panels,Jinko Solar Holding Co. Ltd.,Jinko Solar Holding Co. Ltd.,Energy,,
+37,Energy,Batteries for Storage,Tesla Energy Solutions,Tesla Energy Solutions,Energy,,
+38,Energy,Fuel Cells,Ballard Power Systems Inc.,Ballard Power Systems Inc.,Energy,,
+39,Energy,Lubricants,Shell Global Solutions International BV,Shell Global Solutions International BV,Energy,,
+40,Clothing,Sportswear,Nike Inc.,Nike Inc.,Apparel,,
+41,Clothing,Casual Wear,H&M Group,H&M Group,Apparel,,
+42,Clothing,Luxury Apparel,LVMH Moët Hennessy Louis Vuitton SE,LVMH Moët Hennessy Louis Vuitton SE,Apparel,,
+43,Clothing,Fashion Accessories,Zara SA (Inditex),Zara SA (Inditex),Apparel,,
+44,Beauty Products,Cosmetics,L'Oréal Group,L'Oréal Group,Beauty Products,,
+45,Beauty Products,Hygiene Products,P&G (Procter & Gamble),P&G (Procter & Gamble),Beauty Products,,
+46,Beauty Products,Skin Care,Nivea (Beiersdorf AG),Nivea (Beiersdorf AG),Beauty Products,,
+47,Beauty Products,Hair Care,TRESemmé (Unilever),TRESemmé (Unilever),Beauty Products,,
+48,Agriculture,Fertilizers,Yara International ASA,Yara International ASA,Agriculture,,
+49,Agriculture,Pesticides,BASF SE Agriculture Solutions Division,BASF SE Agriculture Solutions Division,Agriculture,,
+50,Agriculture,Irrigation Equipment,Jain Irrigation Systems Ltd.,Jain Irrigation Systems Ltd.,Agriculture,,
+51,Agriculture,Farm Machinery,John Deere Co.,John Deere Co.,Agriculture,333120.0,Farm Machinery Manufacturing (Agriculture Equipment)
+52,Aerospace,Aviation Components,Boeing Company,Boeing Company,Aerospace,,
+53,Aerospace,Aerospace Materials,Rolls-Royce Holdings PLC,Rolls-Royce Holdings PLC,Aerospace,,
+54,Aerospace,Navigational Systems,Honeywell Aerospace Inc.,Honeywell Aerospace Inc.,Aerospace,,
+55,Aerospace,Turbine Engines,GE Aviation Systems LLC,GE Aviation Systems LLC,Aerospace,,
+56,Healthcare Services,Hospitals,Mayo Clinic Health System,Mayo Clinic Health System,Healthcare Services,,
+57,Healthcare Services,Laboratories,LabCorp Diagnostics Inc.,LabCorp Diagnostics Inc.,Healthcare Services,,
+58,Healthcare Services,Nursing Homes,Kaiser Permanente Healthcare Group Inc.,Kaiser Permanente Healthcare Group Inc.,Healthcare Services,,
+59,Healthcare Services,Mental Health Services,Cigna Corporation Behavioral Health Division,Cigna Corporation Behavioral Health Division,Healthcare Services,,
+60,Mining & Metals,Iron Ore,Rio Tinto Group Mining Division,Rio Tinto Group Mining Division,Mining & Metals,212210.0,Iron Ore Mining
+61,Mining & Metals,Copper Ore,BHP Group Limited Copper Operations,BHP Group Limited Copper Operations,Mining & Metals,212230.0,Copper Ore Mining
+62,Mining & Metals,Zinc Ore,Hindustan Zinc Limited,Hindustan Zinc Limited,Mining & Metals,,
+63,Mining & Metals,Gemstones,Gemfields PLC,Gemfields PLC,Mining & Metals,,
+64,Transportation,Railway Equipment,Siemens Mobility GmbH,Siemens Mobility GmbH,Transportation,,
+65,Transportation,Aviation Equipment,Bombardier Aerospace,Bombardier Aerospace,Transportation,,
+66,Transportation,Cargo Containers,MOL Logistics Co. Ltd.,MOL Logistics Co. Ltd.,Transportation,,
+67,Transportation,Fleet Management Software,Zebra Technologies Corporation,Zebra Technologies Corporation,Transportation,,
+68,Education Supplies,Books,Pearson Education Limited,Pearson Education Limited,Education Supplies,,
+69,Education Supplies,Laboratory Equipment,Fisher Scientific International LLC,Fisher Scientific International LLC,Education Supplies,,
+70,Education Supplies,Digital Learning Tools,Kahoot! AS,Kahoot! AS,Education Supplies,,
+71,Education Supplies,Furniture for Schools,Virco Manufacturing Corporation,Virco Manufacturing Corporation,Education Supplies,,
+72,Entertainment Services,Gaming Consoles,Sony Interactive Entertainment LLC,Sony Interactive Entertainment LLC,Entertainment Services,,
+73,Entertainment Services,Videogames,Nintendo Co. Ltd.,Nintendo Co. Ltd.,Entertainment Services,,
+74,Entertainment Services,Movie Production Equipment,Walt Disney Studios Motion Pictures LLC,Walt Disney Studios Motion Pictures LLC,Entertainment Services,,
+75,Entertainment Services,Musical Instruments,Yamaha Corporation Music Division,Yamaha Corporation Music Division,Entertainment Services,,
+76,Hospitality Services,Luxury Hotels,Ritz-Carlton Hotel Company LLC,Ritz-Carlton Hotel Company LLC,Hospitality Services,,
+77,Hospitality Services,Budget Hotels,OYO Rooms Private Limited,OYO Rooms Private Limited,Hospitality Services,,
+78,Hospitality Services,Catering Equipment,Hobart Food Equipment Group LLC,Hobart Food Equipment Group LLC,Hospitality Services,,
+79,Hospitality Services,Tourism Packages,TUI Group Travel Division,TUI Group Travel Division,Hospitality Services,,
+80,Retail,E-commerce Platforms,Amazon.com Inc. Retail Division,Amazon.com Inc. Retail Division,Retail,,
+81,Retail,Grocery Chains,Walmart Inc. Grocery Operations Unit,Walmart Inc. Grocery Operations Unit,Retail,,
+82,Retail,Fashion Retailers,Zalando SE Fashion Marketplace Division,Zalando SE Fashion Marketplace Division,Retail,,
+83,Retail,Luxury Goods Retailers,Tiffany & Co. Jewelry Operations Unit,Tiffany & Co. Jewelry Operations Unit,Retail,,
+84,Telecommunications Network Equipment,Nokia Corporation Telecommunications Division,Nokia Corporation Telecommunications Division,Nokia Corporation Telecommunications Division,Telecommunications,,
+85,Telecommunications Mobile Phones,Huawei Technologies Co. Ltd.,Huawei Technologies Co. Ltd.,Huawei Technologies Co. Ltd.,Telecommunications,,
+86,Telecommunications Satellite Communication Systems,Viasat Inc. Satellite Communications Unit,Viasat Inc. Satellite Communications Unit,Viasat Inc. Satellite Communications Unit,Telecommunications,517410.0,Satellite Telecommunications
+87,Telecommunications Internet Service Providers,Vodafone Group PLC Internet Operations Unit,Vodafone Group PLC Internet Operations Unit,Vodafone Group PLC Internet Operations Unit,Telecommunications,,
+88,Sports Equipment Outdoor Gear,Puma SE Sportswear and Equipment Division,Puma SE Sportswear and Equipment Division,Puma SE Sportswear and Equipment Division,Sports Equipment,,
+89,Sports Equipment Indoor Fitness Equipment,Peloton Interactive Inc. Fitness Division,Peloton Interactive Inc. Fitness Division,Peloton Interactive Inc. Fitness Division,Sports Equipment,,
+90,Sports Equipment Adventure Gear,Mammut Sports Group AG Adventure Gear Division,Mammut Sports Group AG Adventure Gear Division,Mammut Sports Group AG Adventure Gear Division,Sports Equipment,,
+91,Sports Equipment Team Sports Gear,Umbro International Team Sports Division,Umbro International Team Sports Division,Umbro International Team Sports Division,Sports Equipment,,
+92,Pharmaceuticals,Antibiotics,Merck & Co.,Merck & Co.,Pharmaceuticals,,
+93,Pharmaceuticals,Antivirals,Gilead Sciences,Gilead Sciences,Pharmaceuticals,,
+94,Pharmaceuticals,Antifungals,Pfizer Inc.,Pfizer Inc.,Pharmaceuticals,,
+95,Pharmaceuticals,Antiparasitics,Sanofi,Sanofi,Pharmaceuticals,,
+96,Pharmaceuticals,Antineoplastics,Roche,Roche,Pharmaceuticals,,
+97,Pharmaceuticals,Anticoagulants,Bristol-Myers Squibb,Bristol-Myers Squibb,Pharmaceuticals,,
+98,Pharmaceuticals,Antidepressants,Eli Lilly and Company,Eli Lilly and Company,Pharmaceuticals,,
+99,Pharmaceuticals,Antipsychotics,AstraZeneca,AstraZeneca,Pharmaceuticals,,
+100,Pharmaceuticals,Antidiabetics,Novo Nordisk,Novo Nordisk,Pharmaceuticals,,
+101,Pharmaceuticals,Antihypertensives,Novartis,Novartis,Pharmaceuticals,,

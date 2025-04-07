@@ -18,7 +18,7 @@ def clean_df(df):
 
     df = df.drop_duplicates()
 
-    df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
+    df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
 
     return df
 
