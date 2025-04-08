@@ -1,7 +1,13 @@
-About: This intelligent data matching solution scipts is developed to match 2 datasets with the use of LLMs to enhance matching accuracy.
+About
+This intelligent data matching solution is designed to match two datasets using Large Language Models (LLMs) to enhance matching accuracy.
 
-steps involved:
+Steps Involved
+Data Cleaning – Removed whitespaces and duplicate entries.
 
-1. Data cleaning to remove whitepaces and duplicate entires.
-2. Matching data using pandas library
-3. Using AWS Bedrock and use amazon.titan-embed-text to text embending and compare the similarities between two values
+Initial Matching – Performed basic data matching using the Pandas library.
+
+LLM-Based Matching – Utilized AWS Bedrock with the amazon.titan-embed-text model to generate text embeddings and calculate similarity scores between values.
+
+DataFrame Update – Updated the DataFrame with the matched results.
+
+Factor Data Merging – Applied the same matching techniques to merge with additional factor data.
